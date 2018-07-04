@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+Hi! I´m a aspiring Data Scientist giving my first steps to learn some programming!
